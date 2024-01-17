@@ -3,6 +3,17 @@
   <test name="Test">
     <classes>
       <class name="selen.exercises.Myaccounttest"/>
+ <class name="selen.exercises.UserregistrationtestwithDDTandExcel"/>
+<class name="selen.exercises.Searchproducttest"/>
+<class name="selen.exercises.productreviewtest"/>
+<class name="selen.exercises.producthovermenutest"/>
+<class name="selen.exercises.guestcheckouttest"/>
+<class name="selen.exercises.emailfriendtest"/>
+<class name="selen.exercises.contactustest"/>
+<class name="selen.exercises.compareproducttest"/>
+<class name="selen.exercises.changecurrencytest"/>
+<class name="selen.exercises.Addproducttoshoppingcart"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

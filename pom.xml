@@ -68,6 +68,14 @@
     <version>27.0.0</version>
 </dependency>
 
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>7.15.0</version>
+    <scope>test</scope>
+</dependency>
+
+
 
   </dependencies>
 
